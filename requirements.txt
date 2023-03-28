@@ -1,0 +1,6 @@
+fontools==0.6.1
+pycairo==1.23.0
+pyfaidx==0.7.2.1
+pyfnutils==1.4
+six==1.16.0
+zstandard==0.20.0
